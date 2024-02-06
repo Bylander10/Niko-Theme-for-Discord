@@ -3,7 +3,7 @@
  * @author Bylander
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
- * @source https://github.com/ClearVision/ClearVision-v6
+ * @source https://github.com/Bylander10/Niko-Theme-for-BetterDiscord
  * @website https://clearvision.github.io
  * @invite 7pNUC9C
  * @BDEditor Clear Vision
@@ -13,6 +13,7 @@
 
 :root {
 
+  /* useless by the current time */
   --gradient-color1: var(--main-color); /* primary color [default: var(--main-color) */
   --gradient-color2: var(--hover-color); /* secondary color [default: var(--hover-color) */
   --gradient-direction: 130deg; /* angle of gradient [default: 130deg] */
