@@ -20,8 +20,6 @@
 
 ### Activate the cool theme yay:
 > open discord, go to settings -> Themes -> Niko -̗̀ (ↀωↀ) -̖́
-
-![2024-02-0612-59-40-ezgif com-crop](https://github.com/Bylander10/Niko-Theme-for-BetterDiscord/assets/68293141/b7e28649-e1cc-40db-9b38-145089c715c0)  
   
 
 
