@@ -22,5 +22,10 @@
 > open discord, go to settings -> Themes -> Niko -̗̀ (ↀωↀ) -̖́
   
 
+_put in mind this theme is still in development_  
+  
 
-_put in mind this theme is still in development_
+**Arts made by:**  
+https://twitter.com/vulkiri  
+https://www.reddit.com/user/negativus_core/  
+https://twitter.com/triplebrownmeow?lang=en
