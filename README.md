@@ -1,5 +1,5 @@
-# Niko-Theme-for-BetterDiscord
-## A theme for BetterDiscord featuring Niko OneShot real!! 
+# Niko-Theme-for-BetterDiscord/Vencord
+## A theme for BetterDiscord or Vencord featuring Niko OneShot real!! 
 ### Preview
 
 
@@ -8,12 +8,17 @@
 
 ## Installation tutorial:
 
-### Download and install BetterDiscord  
+### Download and install BetterDiscord **or** Vencord
 > https://betterdiscord.app/
+> https://vencord.dev/
 
 
 ### Download the theme and put it at:  
-> C:\Users\\(you)\AppData\Roaming\BetterDiscord\themes
+
+#### for BetterDiscord:
+> C:\Users\%USERPROFILE%\AppData\Roaming\BetterDiscord\themes
+#### for Vencord:
+> C:\Users\%USERPROFILE%\AppData\Roaming\Vencord\themes
 
 (make sure OneDrive is not enable, otherwise the path could be different)  
 
