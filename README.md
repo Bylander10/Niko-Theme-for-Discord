@@ -8,10 +8,7 @@
 
 ## Installation tutorial:
 
-### Download and install BetterDiscord **or** Vencord
-> https://betterdiscord.app/
-> https://vencord.dev/
-
+### Download and install [BetterDiscord](https://betterdiscord.app/) **or** [Vencord](https://vencord.dev/)
 
 ### Download the theme and put it at:  
 
