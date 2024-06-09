@@ -13,9 +13,9 @@
 ### Download the theme and put it at:  
 
 #### for BetterDiscord:
-> C:\Users\%USERPROFILE%\AppData\Roaming\BetterDiscord\themes
+> C:\Users\\%USERPROFILE%\AppData\Roaming\BetterDiscord\themes
 #### for Vencord:
-> C:\Users\%USERPROFILE%\AppData\Roaming\Vencord\themes
+> C:\Users\\%USERPROFILE%\AppData\Roaming\Vencord\themes
 
 (make sure OneDrive is not enable, otherwise the path could be different)  
 
