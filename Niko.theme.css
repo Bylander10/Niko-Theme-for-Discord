@@ -8,7 +8,8 @@
  * @BDEditor Clear Vision
 */
 
-@import url('https://clearvision.github.io/ClearVision-v6/main.css');
+/*  temp fix clearvision v7*/
+@import url('https://clearvision.github.io/ClearVision-v7/main.css');
 
 :root {
 
